@@ -1,0 +1,5 @@
+universal_table:
+  dialect: postgres
+  datasource: host= user= password= dbname= port= sslmode=disable
+  dir: ./migration/sql
+  table: migration

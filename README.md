@@ -1,1 +1,1 @@
-# sso
+# [W.I.P] The best golang folder structure
